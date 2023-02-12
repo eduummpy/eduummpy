@@ -1,4 +1,4 @@
-### Hola, bienvenido 👋
+### Hola, bienvenid@ 👋
 
 <!--
 **eduummpy/eduummpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
