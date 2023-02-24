@@ -1,7 +1,7 @@
 ## Bienvenid@ a mi perfil 👋 
 Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
-## Tecnologías
+## Tecnologías 🚀
   
 [<img align="left" alt="HTML5" width="60px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 
@@ -23,8 +23,16 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 <br/><br/><br/>
 
-## Mis redes sociales
+## Mis redes sociales 👉
 
+
+[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221315522-1820355b-ed8e-4f47-8436-939b5a05620c.svg" />](https://www.linkedin.com/in/eduummpy/)
+
+[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221315515-9d1622d7-3f60-49c5-8b60-0e992d0a7564.svg" />](https://www.facebook.com/profile.php?id=100089603037953)
+
+[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221315519-3427ff7f-6f56-4dae-9ddb-fa6d4a80e3d3.svg" />](https://www.instagram.com/eduummpy/)
+
+[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221314566-d5571bb5-3b57-4869-8e6e-4d5d6e812622.svg" />](https://www.tiktok.com/@eduummpy/)
 <!--
 ### Hola, bienvenid@ a mi perfil👋
 **eduummpy/eduummpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
