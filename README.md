@@ -26,13 +26,14 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 ## Mis redes sociales 👉
 
 
-[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221315522-1820355b-ed8e-4f47-8436-939b5a05620c.svg" />](https://www.linkedin.com/in/eduummpy/)
+[<img align="left" alt="HTML5" width="42px" src="https://user-images.githubusercontent.com/123834433/221331314-6432bdbb-0f0a-4bef-a5b1-40bdd9dcaf7d.png" />](https://www.linkedin.com/in/eduummpy/)
 
-[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221315515-9d1622d7-3f60-49c5-8b60-0e992d0a7564.svg" />](https://www.facebook.com/profile.php?id=100089603037953)
+[<img align="left" alt="HTML5" width="42px" src="https://user-images.githubusercontent.com/123834433/221331309-3df61c1c-6cad-41eb-a34c-3f6dfc86e7d9.png" />](https://www.facebook.com/profile.php?id=100089603037953)
 
-[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221315519-3427ff7f-6f56-4dae-9ddb-fa6d4a80e3d3.svg" />](https://www.instagram.com/eduummpy/)
+[<img align="left" alt="HTML5" width="42px" src="https://user-images.githubusercontent.com/123834433/221331311-2d4625b5-65a2-4aaa-aab7-86a86a311884.png" />](https://www.instagram.com/eduummpy/)
 
-[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221314566-d5571bb5-3b57-4869-8e6e-4d5d6e812622.svg" />](https://www.tiktok.com/@eduummpy/)
+[<img align="left" alt="HTML5" width="42px" src="https://user-images.githubusercontent.com/123834433/221331315-ccb8d8b0-f807-44a2-aaf7-d0fd17d3b483.png" />](https://www.tiktok.com/@eduummpy/)
+
 <!--
 ### Hola, bienvenid@ a mi perfil👋
 **eduummpy/eduummpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
