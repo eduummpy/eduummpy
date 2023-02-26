@@ -25,6 +25,12 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png" />](https://fastapi.tiangolo.com/)
 
+[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221441961-13d8cab1-8fbc-45cf-b986-8d7cb655a150.png" />](pandas)
+
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441962-f955f92e-e43a-4cd6-b017-7219512e8f8e.svg" />](statsmodels)
+
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441959-0433108f-438e-4dc7-9c56-442f2640f96b.png" />](matplotlib)
+
 <br/><br/>
 
 #### Sistemas operativos y plataformas:
