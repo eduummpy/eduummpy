@@ -44,8 +44,11 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="42px" src="https://user-images.githubusercontent.com/123834433/221331315-ccb8d8b0-f807-44a2-aaf7-d0fd17d3b483.png" />](https://www.tiktok.com/@eduummpy/)
 
+[<img align="left" alt="HTML5" width="42px" src="https://user-images.githubusercontent.com/123834433/221431947-8b17c1f4-242d-4f60-ae94-2deb69c34594.png" />](https://www.youtube.com/@eduummpy)
+
 <!--
 ### Hola, bienvenid@ a mi perfil👋
+
 **eduummpy/eduummpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
