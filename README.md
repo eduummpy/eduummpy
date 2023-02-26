@@ -5,8 +5,6 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 - ### Lenguajes de programación, marcado y consultas:
 
-<br/>
-
 [<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 
 [<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -23,9 +21,7 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 <br/><br/><br/>
 
-- ### Sistemas operativos:
-
-<br/>
+- ### Sistemas operativos y plataformas:
 
 [<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://www.linux.org/)
 
@@ -35,7 +31,6 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 - ### Frameworks y librerias:
 
-<br/>
 
 ## Mis redes sociales 👉
 
