@@ -29,7 +29,7 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 #### Frameworks y librerias:
 
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://www.arduino.cc/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://www.arduino.cc/)
 
 <br/><br/><br/>
 
