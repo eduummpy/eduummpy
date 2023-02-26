@@ -21,15 +21,15 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://fastapi.tiangolo.com/)
 
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441244-31e00a82-94c8-4b18-9552-375cf4d53b0f.png" />](https://fastapi.tiangolo.com/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441244-31e00a82-94c8-4b18-9552-375cf4d53b0f.png" />](https://www.djangoproject.com/)
 
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png" />](https://fastapi.tiangolo.com/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png" />](https://vuejs.org/)
 
-[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221441961-13d8cab1-8fbc-45cf-b986-8d7cb655a150.png" />](pandas)
+[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/221441961-13d8cab1-8fbc-45cf-b986-8d7cb655a150.png" />](https://pandas.pydata.org/)
 
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441962-f955f92e-e43a-4cd6-b017-7219512e8f8e.svg" />](statsmodels)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441962-f955f92e-e43a-4cd6-b017-7219512e8f8e.svg" />](https://www.statsmodels.org/stable/index.html)
 
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441959-0433108f-438e-4dc7-9c56-442f2640f96b.png" />](matplotlib)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441959-0433108f-438e-4dc7-9c56-442f2640f96b.png" />](https://matplotlib.org/)
 
 <br/><br/>
 
