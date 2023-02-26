@@ -21,6 +21,8 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://fastapi.tiangolo.com/)
 
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221441244-31e00a82-94c8-4b18-9552-375cf4d53b0f.png" />](https://fastapi.tiangolo.com/)
+
 <br/><br/>
 
 #### Sistemas operativos y plataformas:
