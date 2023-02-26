@@ -19,9 +19,9 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 #### Sistemas operativos y plataformas:
 
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://www.linux.org/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430093-cf3a7845-c214-4760-9b09-2f3d50f50d4c.png" />](https://www.linux.org/)
 
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://ubuntu-mate.org/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430254-61c776f2-6bc9-4b0d-9f2e-12aae0643070.png" />](https://ubuntu-mate.org/)
 
 <br/><br/><br/>
 
