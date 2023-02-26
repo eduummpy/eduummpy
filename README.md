@@ -2,8 +2,12 @@
 Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 ## Tecnologías 🚀
-  
-[<img align="left" alt="HTML5" width="60px"     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
+
+- ### Lenguajes de programación, marcado y consultas:
+
+<br/>
+
+[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 
 [<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
@@ -17,11 +21,21 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](https://www.latex-project.org/)
 
+<br/><br/><br/>
+
+- ### Sistemas operativos:
+
+<br/>
+
 [<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://www.linux.org/)
 
 [<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://ubuntu-mate.org/)
 
 <br/><br/><br/>
+
+- ### Frameworks y librerias:
+
+<br/>
 
 ## Mis redes sociales 👉
 
