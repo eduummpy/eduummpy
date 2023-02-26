@@ -29,6 +29,8 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430254-61c776f2-6bc9-4b0d-9f2e-12aae0643070.png" />](https://www.kali.org/)
 
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221431606-ec77839e-73b7-40fb-ac6c-4b9739fbffcb.png" />](https://www.kali.org/)
+
 [<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png" />](https://www.arduino.cc/)
 
 <br/><br/><br/>
