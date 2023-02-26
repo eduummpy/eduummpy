@@ -15,21 +15,21 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221429606-a7fef5f8-5cb4-4dee-96bd-3d29959092d6.png" />](https://www.hostinger.es/tutoriales/bash-script-linux)
 
-<br/><br/><br/>
-
-#### Sistemas operativos y plataformas:
-
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430093-cf3a7845-c214-4760-9b09-2f3d50f50d4c.png" />](https://www.linux.org/)
-
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430254-61c776f2-6bc9-4b0d-9f2e-12aae0643070.png" />](https://ubuntu-mate.org/)
-
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png" />](https://www.arduino.cc/)
-
-<br/><br/><br/>
+<br/><br/>
 
 #### Frameworks y librerias:
 
-[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://www.arduino.cc/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://fastapi.tiangolo.com/)
+
+<br/><br/>
+
+#### Sistemas operativos y plataformas:
+
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430093-cf3a7845-c214-4760-9b09-2f3d50f50d4c.png" />](https://ubuntu-mate.org/)
+
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430254-61c776f2-6bc9-4b0d-9f2e-12aae0643070.png" />](https://www.kali.org/)
+
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png" />](https://www.arduino.cc/)
 
 <br/><br/><br/>
 
