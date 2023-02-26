@@ -5,19 +5,15 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 #### Lenguajes de programación, marcado y consultas:
 
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221429610-fe38f003-d198-4f45-8b6a-4f6980874d28.png" />](https://www.python.org/)
 
-[<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221429609-3f89f9c0-758a-4fb1-b011-6e8b8b3c7a17.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/es/docs/Web/HTML)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png" />](https://developer.mozilla.org/es/docs/Web/HTML)
 
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](https://aws.amazon.com/es/what-is/sql/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221429611-4b465fb8-e429-4547-824f-8c354d2794f0.png" />](https://aws.amazon.com/es/what-is/sql/)
 
-[<img align="left" alt="HTML5" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />](https://www.hostinger.es/tutoriales/bash-script-linux)
-
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://www.arduino.cc/)
-
-[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](https://www.latex-project.org/)
+[<img align="left" alt="HTML5" width="50px" src="https://user-images.githubusercontent.com/123834433/221429606-a7fef5f8-5cb4-4dee-96bd-3d29959092d6.png" />](https://www.hostinger.es/tutoriales/bash-script-linux)
 
 <br/><br/><br/>
 
@@ -31,6 +27,9 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 #### Frameworks y librerias:
 
+[<img align="left" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://www.arduino.cc/)
+
+<br/><br/><br/>
 
 ## Mis redes sociales 👉
 
