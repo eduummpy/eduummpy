@@ -1,7 +1,7 @@
 ## Bienvenid@ a mi perfil 👋 
 Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
-Actualmente me encuentro aprendiendo las siguietes tecnologías/herramientas:
+Actualmente me encuentro aprendiendo las siguientes tecnologías/herramientas:
 
 - Para Trabajo: Bash Scripting, Metasploit Framework, Kali Linux.
 
