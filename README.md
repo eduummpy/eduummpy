@@ -21,14 +21,14 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png" />](https://developer.mozilla.org/es/docs/Web/HTML)
 
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429611-4b465fb8-e429-4547-824f-8c354d2794f0.png" />](https://aws.amazon.com/es/what-is/sql/)
+[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222034413-33a9c642-a495-4430-819f-506f802dec0e.png" />](https://aws.amazon.com/es/what-is/sql/)
 
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429606-a7fef5f8-5cb4-4dee-96bd-3d29959092d6.png" />](https://www.hostinger.es/tutoriales/bash-script-linux)
+[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222033916-675ddea9-aa17-4f18-97a3-1caeb86362b7.png" />](https://www.hostinger.es/tutoriales/bash-script-linux)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://fastapi.tiangolo.com/)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png" />](https://vuejs.org/)
 
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221430093-cf3a7845-c214-4760-9b09-2f3d50f50d4c.png" />](https://ubuntu-mate.org/)
-
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png" />](https://www.arduino.cc/)
+
+[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/222034910-0b9f2cbb-a517-4062-8a72-cb30a904354a.png" />](https://ubuntu-mate.org/)
