@@ -29,10 +29,6 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png" />](https://vuejs.org/)
 
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221442566-5eb78d03-6b9c-45b3-98a9-e2806347b118.png" />](https://www.metasploit.com/)
-
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221430093-cf3a7845-c214-4760-9b09-2f3d50f50d4c.png" />](https://ubuntu-mate.org/)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221431606-ec77839e-73b7-40fb-ac6c-4b9739fbffcb.png" />](https://www.kali.org/)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png" />](https://www.arduino.cc/)
