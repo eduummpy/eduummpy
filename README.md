@@ -17,7 +17,7 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429610-fe38f003-d198-4f45-8b6a-4f6980874d28.png" />](https://www.python.org/)
 
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429609-3f89f9c0-758a-4fb1-b011-6e8b8b3c7a17.png" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222033308-9c81fe8a-12dd-4921-9492-2f0c94b6c961.png" />](https://www.typescriptlang.org/)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png" />](https://developer.mozilla.org/es/docs/Web/HTML)
 
