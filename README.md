@@ -17,8 +17,6 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429610-fe38f003-d198-4f45-8b6a-4f6980874d28.png" />](https://www.python.org/)
 
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222510105-8fc5311f-6323-4293-8d78-51528c66fb17.png" />](https://www.ni.com/es-cr/shop/labview.html)
-
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222033308-9c81fe8a-12dd-4921-9492-2f0c94b6c961.png" />](https://www.typescriptlang.org/)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png" />](https://developer.mozilla.org/es/docs/Web/HTML)
