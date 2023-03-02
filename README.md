@@ -17,6 +17,8 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429610-fe38f003-d198-4f45-8b6a-4f6980874d28.png" />](https://www.python.org/)
 
+[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222510105-8fc5311f-6323-4293-8d78-51528c66fb17.png" />](https://www.ni.com/es-cr/shop/labview.html)
+
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222033308-9c81fe8a-12dd-4921-9492-2f0c94b6c961.png" />](https://www.typescriptlang.org/)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png" />](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -30,7 +32,5 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://fastapi.tiangolo.com/)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png" />](https://www.arduino.cc/)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222510105-8fc5311f-6323-4293-8d78-51528c66fb17.png" />](https://www.ni.com/es-cr/shop/labview.html)
 
 [<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/222034910-0b9f2cbb-a517-4062-8a72-cb30a904354a.png" />](https://ubuntu-mate.org/)
