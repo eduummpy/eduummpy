@@ -25,12 +25,12 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222036444-47545dfe-e2a6-4459-9a41-c154b9c5be96.png" />](https://www.mysql.com/)
 
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222510105-8fc5311f-6323-4293-8d78-51528c66fb17.png" />](labview)
-
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png" />](https://vuejs.org/)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://fastapi.tiangolo.com/)
 
 [<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png" />](https://www.arduino.cc/)
+
+[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222510105-8fc5311f-6323-4293-8d78-51528c66fb17.png" />](https://www.ni.com/es-cr/shop/labview.html)
 
 [<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/222034910-0b9f2cbb-a517-4062-8a72-cb30a904354a.png" />](https://ubuntu-mate.org/)
