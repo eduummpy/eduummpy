@@ -46,7 +46,7 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
         <img align="left" width="40px" src="https://user-images.githubusercontent.com/123834433/222919712-8dd02b5a-f7b0-4d8c-b187-917da734aec6.png"/>
       </a>
       <a href="https://www.microsoft.com/es-es/windows?r=1">
-        <img align="left" width="40px" src="https://user-images.githubusercontent.com/123834433/222919854-ce85cd4c-7ae6-4ed8-ac8e-a7e60e49029a.png"/>
+        <img align="left" width="40px" src="https://user-images.githubusercontent.com/123834433/222920012-8939c0c3-7121-45cf-ae7e-e10e39f77955.png"/>
       </a>
     </td>
   </tr>
