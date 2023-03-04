@@ -37,12 +37,6 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
       </a>
     </td>
     <td>
-      <a href="https://vuejs.org/">
-        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png"/>
-      </a>
-      <a href="https://fastapi.tiangolo.com/">
-        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png"/>
-      </a>
       <a href="https://www.gnu.org/software/bash/">
         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/222033916-675ddea9-aa17-4f18-97a3-1caeb86362b7.png"/>
       </a>
