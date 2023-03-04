@@ -15,20 +15,45 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
 
 ## Tecnologías 🚀
 
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429610-fe38f003-d198-4f45-8b6a-4f6980874d28.png" />](https://www.python.org/)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222033308-9c81fe8a-12dd-4921-9492-2f0c94b6c961.png" />](https://www.typescriptlang.org/)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png" />](https://developer.mozilla.org/es/docs/Web/HTML)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222033916-675ddea9-aa17-4f18-97a3-1caeb86362b7.png" />](https://www.gnu.org/software/bash/)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/222036444-47545dfe-e2a6-4459-9a41-c154b9c5be96.png" />](https://www.mysql.com/)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png" />](https://vuejs.org/)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png" />](https://fastapi.tiangolo.com/)
-
-[<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png" />](https://www.arduino.cc/)
-
-[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/123834433/222034910-0b9f2cbb-a517-4062-8a72-cb30a904354a.png" />](https://ubuntu-mate.org/)
+<table>
+  <tr>
+    <th> Skills </th>
+    <th> Aprendiendo </th>
+    <th> Herramientas </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.python.org/">
+        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221429610-fe38f003-d198-4f45-8b6a-4f6980874d28.png"/>
+      </a>
+      <a href="https://www.typescriptlang.org/">
+        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/222033308-9c81fe8a-12dd-4921-9492-2f0c94b6c961.png"/>
+      </a>
+      <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png"/>
+      </a>
+       <a href="https://www.mysql.com/">
+         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/222036444-47545dfe-e2a6-4459-9a41-c154b9c5be96.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://vuejs.org/">
+        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221441492-c525af0d-453b-44d7-8faf-d8e4407aa84b.png"/>
+      </a>
+      <a href="https://fastapi.tiangolo.com/">
+        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png"/>
+      </a>
+      <a href="https://www.arduino.cc/">
+        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png"/>
+      </a>
+      <a href="https://www.gnu.org/software/bash/">
+        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/222033916-675ddea9-aa17-4f18-97a3-1caeb86362b7.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://ubuntu-mate.org/">
+        <img align="left" width="40px" src="https://user-images.githubusercontent.com/123834433/222034910-0b9f2cbb-a517-4062-8a72-cb30a904354a.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
