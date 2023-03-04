@@ -43,9 +43,6 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
       <a href="https://fastapi.tiangolo.com/">
         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221431039-7fa581bf-d4e9-49b1-b9d5-faf898fa789e.png"/>
       </a>
-      <a href="https://www.arduino.cc/">
-        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221430903-5e98db22-3485-42bd-a056-31ffb42cd98e.png"/>
-      </a>
       <a href="https://www.gnu.org/software/bash/">
         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/222033916-675ddea9-aa17-4f18-97a3-1caeb86362b7.png"/>
       </a>
