@@ -42,9 +42,11 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
       </a>
     </td>
     <td>
-      <a href="https://ubuntu-mate.org/">
-        <img align="left" width="40px" src="https://user-images.githubusercontent.com/123834433/222034910-0b9f2cbb-a517-4062-8a72-cb30a904354a.png"/>
+      <a href="https://www.kali.org/">
+        <img align="left" width="40px" src="https://user-images.githubusercontent.com/123834433/222919712-8dd02b5a-f7b0-4d8c-b187-917da734aec6.png"/>
       </a>
     </td>
   </tr>
+  ![kali]()
+
 </table>
