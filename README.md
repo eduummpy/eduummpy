@@ -8,6 +8,8 @@
 
 [<img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/123834433/221331315-ccb8d8b0-f807-44a2-aaf7-d0fd17d3b483.png" />](https://www.tiktok.com/@eduummpy/)
 
+[<img align="left" alt="HTML5" width="30px" src="https://user-images.githubusercontent.com/123834433/222941718-0b4a31da-ae3b-4588-8623-da16d38eb7dd.png" />](https://twitter.com/eduummpy/)
+
 [<img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/123834433/221431947-8b17c1f4-242d-4f60-ae94-2deb69c34594.png" />](https://www.youtube.com/@eduummpy)
 <br/>
 
