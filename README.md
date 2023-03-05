@@ -2,7 +2,7 @@
 
 [<img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/123834433/221331314-6432bdbb-0f0a-4bef-a5b1-40bdd9dcaf7d.png" />](https://www.linkedin.com/in/eduummpy/)
 
-[<img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/123834433/221331309-3df61c1c-6cad-41eb-a34c-3f6dfc86e7d9.png" />](https://www.facebook.com/profile.php?id=100089603037953)
+[<img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/123834433/221331309-3df61c1c-6cad-41eb-a34c-3f6dfc86e7d9.png" />](https://www.facebook.com/eduummpy/)
 
 [<img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/123834433/221331311-2d4625b5-65a2-4aaa-aab7-86a86a311884.png" />](https://www.instagram.com/eduummpy/)
 
