@@ -32,8 +32,8 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
       <a href="https://www.python.org/">
         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221429610-fe38f003-d198-4f45-8b6a-4f6980874d28.png"/>
       </a>
-      <a href="https://www.typescriptlang.org/">
-        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/222033308-9c81fe8a-12dd-4921-9492-2f0c94b6c961.png"/>
+      <a href="https://www.javascript.com/">
+        <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/223736007-e9907a72-da64-4f6d-8bc4-8fc9b35bbc7f.png"/>
       </a>
       <a href="https://developer.mozilla.org/es/docs/Web/HTML">
         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png"/>
