@@ -38,7 +38,7 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
       <a href="https://developer.mozilla.org/es/docs/Web/HTML">
         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png"/>
       </a>
-       <a href="https://www.mysql.com/">
+       <a href="https://mariadb.org/">
          <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/223744307-178bbb0c-395d-4226-ad97-76e4b413c296.png"/>
       </a>
     </td>
