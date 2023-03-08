@@ -48,7 +48,7 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
       </a>
     </td>
     <td>
-       <a href="https://www.microsoft.com/es-es/windows?r=1">
+       <a href="https://www.dprojects.org/minios/">
         <img align="left" width="40px" src="https://user-images.githubusercontent.com/123834433/222920012-8939c0c3-7121-45cf-ae7e-e10e39f77955.png"/>
       </a>
       <a href="https://www.kali.org/">
