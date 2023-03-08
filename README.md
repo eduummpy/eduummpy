@@ -2,6 +2,10 @@
 [<img alt="HTML5" width="530px" height="200px" src="https://user-images.githubusercontent.com/123834433/222941816-31e7e59a-f9e4-47e1-b1d6-8453d802fab9.jpg" />](https://www.github.com/eduummpy/)
 -->
 
+<p align="center">
+  <img alt="HTML5" width="100px" src="https://user-images.githubusercontent.com/123834433/223855759-0d6ae096-44c4-4468-bca7-9d969a95aeea.png" />
+</p>
+
 ## Bienvenid@ a mi perfil 👋 
 
 [<img align="left" alt="HTML5" width="25px" src="https://user-images.githubusercontent.com/123834433/221331314-6432bdbb-0f0a-4bef-a5b1-40bdd9dcaf7d.png" />](https://www.linkedin.com/in/eduummpy/)
