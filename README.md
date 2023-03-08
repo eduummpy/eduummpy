@@ -39,7 +39,7 @@ Hola, mi nombre es Eduardo y te doy la bienvenida a mi repositorio.
         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/221429608-1fdba7a9-82b4-4477-b47e-690d5a6f435a.png"/>
       </a>
        <a href="https://www.mysql.com/">
-         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/222036444-47545dfe-e2a6-4459-9a41-c154b9c5be96.png"/>
+         <img align="left" width="35px" src="https://user-images.githubusercontent.com/123834433/223744307-178bbb0c-395d-4226-ad97-76e4b413c296.png"/>
       </a>
     </td>
     <td>
