@@ -1,5 +1,7 @@
 <!--- 
 [<img alt="HTML5" width="530px" height="200px" src="https://user-images.githubusercontent.com/123834433/222941816-31e7e59a-f9e4-47e1-b1d6-8453d802fab9.jpg" />](https://www.github.com/eduummpy/)
+![hacker-cat-265](https://user-images.githubusercontent.com/123834433/223867011-886e6968-0e9e-40fd-be38-b244c0097e83.png)
+![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png)
 -->
 
 ## Bienvenid@ a mi perfil 👋 
